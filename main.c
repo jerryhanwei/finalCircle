@@ -6,5 +6,5 @@
 void main() {
     long i = 10000;
     long k = 10000;
-    printf("%ld", i + k);
+    printf("%f", pow(2,32));
 }
